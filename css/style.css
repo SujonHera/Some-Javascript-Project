@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --color: darkorange;
+}
+
+.bg-darkorange {
+    background: #FF5722;
+    color: white;
+}
+
+.javascript {
+    text-align: center;
+    padding: 15px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.about-me {
+    margin-top: 80px;
+}
+
+.about-me h1 {
+    font-size: 50px;
+    padding-bottom: 3px;
+}
+
+.about-me h1 span {
+    color: #ff9309;
+}
+
+.icon {
+    padding: 10px 0px;
+}
+
+.icon a i {
+    color: var(--color);
+    padding: 8px;
+    border: 1.5px solid white;
+    border-radius: 50%;
+}
+
+.icon a i:hover {
+    color: white;
+    border: 1.5px solid var(--color);
+}
+
+a.facebook {
+    padding: 10px 16px;
+}
+
+i.facebook.fab.fa-facebook-f {
+    padding: 8px 11px;
+}
+
+i.linkedin.fab.fa-linkedin-in {
+    padding: 8px 9px;
+}
+.card{
+    color: white;
+    transition: all 0.5s;
+    
+}
+.card-text{
+    font-size: 14px;
+}
+/* .card:hover{
+    transform: translateY(-10px) scale(1.02);
+    transition: all 0.8s;
+} */
