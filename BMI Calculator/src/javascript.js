@@ -11,6 +11,9 @@
      bmiValue = Math.round(bmiValue)
 
      document.getElementById('bmiValue').value = bmiValue;
+     document.getElementById('height').value = ""
+     document.getElementById('weight').value =""
+
    }
    
   }
