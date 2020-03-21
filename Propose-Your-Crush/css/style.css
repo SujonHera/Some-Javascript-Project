@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: silver;
+}
+.submit-area{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn-style{
+    background: #ff051df7;
+    color:white;
+}
+.jumbotron{
+    width: 60%;
+    text-align: center;
+    background: lightblue;
+}
+span{
+    font-size: 160px;
+    font-weight: 900;
+    padding: 30px;
+}
+img{
+    margin-top: -87px;
+    margin-left: 8px;
+}
+#propose-area{
+    display: none;
+}
