@@ -11,6 +11,9 @@
     background: #FF5722;
     color: white;
 }
+li{
+    list-style-type: none;
+}
 
 .javascript {
     text-align: center;
