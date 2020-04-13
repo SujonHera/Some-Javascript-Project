@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding-top: 100px;
+}
+.submit-area{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 4px 10px gray;
+}
+#transaction-area{
+    display: none;
+}
+.deposit{
+    background: slateblue;
+}
+.withdraw{
+    background: salmon;
+}
+.balance{
+    background: orange;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 100px;
+}
+
+.submit-area {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 4px 10px gray;
+}
+
+#transaction-area {
+    display: none;
+}
+
+.deposit {
+    background: slateblue;
+}
+
+.withdraw {
+    background: salmon;
+}
+
+.balance {
+    background: orange;
+}
+
+.box {
+    color: white;
+    padding: 45px;
+    border-radius: 10px;
+    text-align: center;
+}
+.status-add{
+    box-shadow: 5px 4px 10px gray;
+    padding: 40px;
+    border-radius: 10px;
+}
